@@ -1,16 +1,16 @@
 {
   "name": "nuxt-animejs",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "Anime.js module for Nuxt.js",
   "author": "Ivo Dolenc",
   "license": "MIT",
-  "homepage": "https://github.com/ivodolenc/nuxt-animejs",
+  "homepage": "https://github.com/deadfan/nuxt-animejs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivodolenc/nuxt-animejs.git"
+    "url": "https://github.com/deadfan/nuxt-animejs.git"
   },
   "bugs": {
-    "url": "https://github.com/ivodolenc/nuxt-animejs/issues"
+    "url": "https://github.com/deadfan/nuxt-animejs/issues"
   },
   "main": "src/index.js",
   "files": [
