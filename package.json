@@ -1,6 +1,6 @@
 {
   "name": "nuxt-animejs",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "description": "Anime.js module for Nuxt.js",
   "author": "Ivo Dolenc",
   "license": "MIT",
@@ -34,7 +34,8 @@
     "lint:fix:eslint": "yarn lint:eslint --fix"
   },
   "dependencies": {
-    "animejs": "^3.2.1"
+    "animejs": "^3.2.1",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@babel/core": "^7.18.2",
